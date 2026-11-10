@@ -217,7 +217,7 @@ The response also revealed information about caching and the WordPress API.
 
 **Screenshot:**
 
-![CURL HTTP Response Headers](screenshots/04-curl.png)
+![CURL HTTP Response Headers](CURL.png)
 
 **Key Learning:** CURL helps security analysts inspect server responses, identify HTTP headers and examine security-related configurations.
 
