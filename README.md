@@ -133,7 +133,7 @@ Identifying web technologies is useful during security assessments because it he
 
 **Screenshot:**
 
-![WhatWeb Fingerprinting Results](screenshots/02-whatweb.png)
+![WhatWeb Fingerprinting Results](WhatWeb_wk2.png)
 
 **Key Learning:** WhatWeb helps identify website technologies, frameworks, plugins and web server information.
 
