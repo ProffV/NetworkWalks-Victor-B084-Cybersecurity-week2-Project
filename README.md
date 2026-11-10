@@ -88,7 +88,7 @@ The result also indicated that DNSSEC was unsigned. DNSSEC helps protect DNS res
 
 **Screenshot:**
 
-!(Whois1_wk2.png)
+![Whois Result](Whois1_wk2.png)
 
 **Key Learning:** WHOIS helps cybersecurity analysts identify domain registration details, registrars, nameservers and registration timelines.
 
