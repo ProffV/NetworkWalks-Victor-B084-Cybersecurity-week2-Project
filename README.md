@@ -172,7 +172,7 @@ This demonstrates how the Domain Name System translates human-readable domain na
 
 **Screenshot:**
 
-![NSLOOKUP DNS Resolution](screenshots/03-nslookup.png)
+![NSLOOKUP DNS Resolution](Screenshot4.png)
 
 **Key Learning:** NSLOOKUP is useful for DNS troubleshooting and identifying the IP addresses associated with domain names.
 
