@@ -256,7 +256,7 @@ However, detecting a WAF does not automatically prove that the website is protec
 
 **Screenshot:**
 
-![WAFW00F Firewall Detection](screenshots/05-wafw00f.png)
+![WAFW00F Firewall Detection](Wafw00f.png)
 
 **Key Learning:** WAFW00F helps identify whether a website uses a Web Application Firewall and may reveal the technology providing that protection.
 
@@ -310,7 +310,7 @@ The unsuccessful queries should not automatically be interpreted as security vul
 
 **Screenshot:**
 
-![DNSRECON Enumeration Results](screenshots/06-dnsrecon.png)
+![DNSRECON Enumeration Results](DNSRECON.png)
 
 **Key Learning:** DNSRECON helps identify DNS records and understand the publicly visible DNS configuration of a domain.
 
